@@ -2,13 +2,25 @@
     {
       "outputFileName": "wwwroot/css/site.1.0.min.css",
       "inputFiles": [
-        "Content/site.1.0.css"
+        "Content/site.1.0.css",
+        "Content/animate.css",
+        "Content/bootstrap.min.css",
+        "Content/classy-nav.css",
+        "Content/font-awesome.min.css",
+        "Content/magnific-popup.css",
+        "Content/owl.carousel.min.css"
       ]
     },
     {
       "outputFileName": "wwwroot/js/site.1.0.min.js",
       "inputFiles": [
-        "Script/site.1.0.js"
+        "Script/site.1.0.js",
+        "Script/active.js",
+        "Script/bootstrap/bootstrap.min.js",
+        "Script/bootstrap/popper.min.js",
+        "Script/bootstrap/popper.min.js",
+        "Script/jquery/jquery-2.2.4.min.js",
+        "Script/plugins/plugins.js"
       ],
       "minify": {
         "enabled": true,
